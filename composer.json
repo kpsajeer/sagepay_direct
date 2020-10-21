@@ -1,0 +1,17 @@
+{
+    "name": "sajeer/sagepay_direct",
+    "description": "Sagepay Direct PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "sajeer Kunji Parambathu",
+        "email": "kpsajeer@gmail.com"
+    }],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "sajeer\\SagepayDirect\\": "src/"
+        }
+    },
+    "require": {}
+}
